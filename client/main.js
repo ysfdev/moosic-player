@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    var clientID = ''';
+    var clientID = '';
     var moodsUrls = {
         "coding" : 'https://soundcloud.com/dearmistermanager/sets/coding',
         "relaxing" : 'https://soundcloud.com/solopianomusic/soft-piano-2008-aug-18?in=solopianomusic/sets/soft-relax-meditation-solo-piano-diary2',
