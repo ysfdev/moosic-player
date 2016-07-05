@@ -1,0 +1,51 @@
+
+.jumbotron{
+    text-align: center;
+}
+header{
+    background: #2BBBAD;
+    color: #FFF;
+    padding: 30px;
+    color: #FFF;
+    font-size: 1.5em;
+}
+footer {
+    background: #2BBBAD;
+    color: #FFF;
+    padding: 20px;
+    font-size: 1.2em;
+    text-align: center;
+    border-top: 4px solid #ff5722;
+}
+label{
+    font-size: 1.5em;
+}
+select{
+    line-height: 20px;
+    background: #FFF;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    padding: 10px;
+    border: 2px solid #2BBBAD;
+    border-radius: 5px;
+
+}
+option{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.player-container {
+    min-height: 300px;
+    max-width: 600px;
+    margin: 30px auto;
+    border-radius: 5px;
+    position: relative;
+}
+
+#player p{
+    text-align: center;
+    font-size: 1.3em;
+    margin: 30px auto;
+}
