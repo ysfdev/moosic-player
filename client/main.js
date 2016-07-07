@@ -1,10 +1,10 @@
 $(document).ready(function() {
     var clientID = '';
     var moodsUrls = {
-        "coding" : 'https://soundcloud.com/dearmistermanager/sets/coding',
-        "relaxing" : 'https://soundcloud.com/solopianomusic/soft-piano-2008-aug-18?in=solopianomusic/sets/soft-relax-meditation-solo-piano-diary2',
-        "sleep" : 'https://soundcloud.com/relaxmeditation/sets/meditation-of-the-heart',
-        "meditation" : 'https://soundcloud.com/relaxmeditation/sets/meditation-of-the-heart'
+        coding : 'https://soundcloud.com/dearmistermanager/sets/coding',
+        relaxing : 'https://soundcloud.com/solopianomusic/soft-piano-2008-aug-18?in=solopianomusic/sets/soft-relax-meditation-solo-piano-diary2',
+        sleep : 'https://soundcloud.com/relaxmeditation/sets/meditation-of-the-heart',
+        meditation : 'https://soundcloud.com/relaxmeditation/sets/meditation-of-the-heart'
     };
     var mood = "";
 
